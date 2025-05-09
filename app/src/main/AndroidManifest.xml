@@ -12,11 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MainActivity"
         tools:targetApi="31">
+
         <activity
-            android:name=".MainActivity2"
-            android:exported="false" />
-        <activity
-            android:name=".EdicionLibroActivity"
+            android:name=".EdicionActivity"
             android:exported="false" />
         <activity
             android:name=".ListadoActivity"
